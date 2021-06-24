@@ -27,13 +27,13 @@
 
 <h2 id="Objective"> 🎯 Objectives </h2>
 
-- [] Create the Frontend in React with Typescript
-- [] Create the Backend with AWS Lambda and DynamoDB
-- [] Integrate GET method
-- [] Integrate POST method
-- [] Create editing modal for patients
-- [] Integrate PATCH and DELETE method
-- [] Improve the code using Context and Hooks
+- [X] Create the Frontend in React with Typescript
+- [X] Create the Backend with AWS Lambda and DynamoDB
+- [X] Integrate GET method
+- [ ] Integrate POST method
+- [ ] Create editing modal for patients
+- [ ] Integrate PATCH and DELETE method
+- [ ] Improve the code using Context and Hooks
 
 <h4>Known Issues</h4>
 
